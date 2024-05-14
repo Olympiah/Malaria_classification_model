@@ -8,6 +8,13 @@
     margin-bottom: 1em;
 }
 
+
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
 .img-preview>div {
     width: 100%;
     height: 100%;
